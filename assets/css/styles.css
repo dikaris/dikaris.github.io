@@ -29,6 +29,8 @@ a{color:#E8B625}a:hover{color:#F3CE55}
 .field:focus{outline:2px solid #122E4A;outline-offset:1px}
 .menu-link{display:flex;align-items:center;min-height:52px;border-bottom:1px solid rgba(237,237,232,.18);color:#EDEDE8;text-decoration:none;font-size:15px;font-weight:500;letter-spacing:.1em;text-transform:uppercase}
 .menu-link:hover{color:#E8B625}
+.method span{hyphens:auto;overflow-wrap:anywhere}
+@media (max-width:760px){.method{padding:22px 16px !important}}
 @media (max-width:760px){.hero-owl{width:100% !important;opacity:.38}.nav-desktop{display:none !important}.menu-btn{display:inline-flex !important}.deco-hide-mobile{display:none}}
 a{color:#122E4A}a:hover{color:#0D1D2C}
 .policy h2{margin:56px 0 16px;font-size:24px;font-weight:500;color:#0D1D2C;line-height:1.3}
