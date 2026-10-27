@@ -1,1 +1,0 @@
-Put the self-hosted .woff2 font files here. See README.txt, step 4.
