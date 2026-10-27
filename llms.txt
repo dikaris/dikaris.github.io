@@ -21,10 +21,10 @@ Dikaris works for authorities, courts, organisations and private clients. Every 
 
 ## Pages
 
-- [Home (EN)](https://dikaris.nl/)
-- [Home (NL)](https://dikaris.nl/nl/)
-- [Privacy policy (EN)](https://dikaris.nl/privacy.html)
-- [Privacyverklaring (NL)](https://dikaris.nl/nl/privacy.html)
+- [Home (EN)](https://dikaris.nl/en/)
+- [Home (NL)](https://dikaris.nl/)
+- [Privacy policy (EN)](https://dikaris.nl/en/privacy.html)
+- [Privacyverklaring (NL)](https://dikaris.nl/privacy.html)
 
 ## Contact
 
